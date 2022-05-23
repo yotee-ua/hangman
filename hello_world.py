@@ -1,0 +1,1 @@
+print("Pryvit, svite!")
